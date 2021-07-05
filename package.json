@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Rest API Boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon -r esm server.js",
+    "start": "node -r esm server.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "mongodb",
+    "express",
+    "Rest",
+    "APi"
+  ],
+  "author": "Sumit Singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
