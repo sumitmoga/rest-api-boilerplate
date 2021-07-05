@@ -1,0 +1,9 @@
+# TODO:
+[] Register a user
+[] Login a user
+[] Who I am
+[] Add New Product
+[] Update a Product
+[] Get All Product
+[] Get Single Product
+[] Delete a Product
